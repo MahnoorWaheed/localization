@@ -1,0 +1,42 @@
+{
+  "@@locale": "es",
+
+  "homePage": "Página de inicio",
+  "@homePage": {},
+
+  "personalInformation": "Informacion personal",
+  "@personalInformation": {},
+
+  "name": "Nombre",
+  "@name": {},
+
+  "nameHint": "Introduzca su nombre",
+  "@nameHint": {},
+
+  "email": "Correo electrónico",
+  "@email": {},
+
+  "emailHint": "Introduce tu correo electrónico",
+  "@emailHint": {},
+
+  "dateOfBirth": "Fecha de nacimiento",
+  "@dateOfBirth": {},
+
+  "requiredField": "Campo requerido",
+  "@requiredField": {},
+
+  "submitInfo": "Enviar información",
+  "@submitInfo": {},
+
+  "aboutUs": "Sobre nosotros",
+  "@aboutUs": {},
+
+  "settings": "Ajustes",
+  "@settings": {},
+
+  "changeLanguage": "Cambiar idioma",
+  "@changeLanguage": {},
+
+  "about": "Lorem Ipsum es simplemente un texto ficticio de la industria de impresión y tipografía. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el siglo XVI, cuando una impresora desconocida tomó una galera de tipo y lo revuelve para hacer un libro de muestras de tipo. Ha sobrevivido no solo cinco siglos, sino también el salto a la composición tipográfica electrónica, que se mantiene esencialmente sin cambios. Se popularizó en la década de 1960 con el lanzamiento de hojas de letraset que contienen pasajes Lorem Ipsum, y más recientemente con software de publicación de escritorio como Aldus Pagemaker, incluidas versiones de Lorem Ipsum.",
+  "@about": {}
+}
